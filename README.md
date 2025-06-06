@@ -17,7 +17,7 @@ The HR database contains information about employees, their roles, job histories
 - Several employees have been with the company for more than 5 years. This shows a good working relationship, mutual benefits and 
 understanding between both parties.
 
-![hr-sql-queries-analysis](hr-sql-queries-analysis)
+![hr-sql-analysis-queries](hr-sql-analysis-queries)
 
 ## Recommendations
 - Management should evaluate job performances and ensure fair compensation practices across similar job titles and departments.
