@@ -23,7 +23,7 @@ understanding between both parties.
 - Management should evaluate job performances and ensure fair compensation practices across similar job titles and departments.
 - Retain long-term employees’ loyalty through upgrade of new skills needed to bring ease on their job, serving as motivation for the new employees.
 - Ensure no shortage of staffs to avoid over/under utilisation of employees, and enhance even distribution of workload to boost employee morale.
-
+  
 ## Conclusion
 This HR data analysis reveals a comprehensive insight about the trends in departmental efficiency, employee overall workforce structure, job compensation based on roles and job retainment over years. These findings will help to drive strategic HR planning, budget optimization, and efficient management efforts, as well as improve operational efficiency, support employee engagement, and strengthen overall organizational growth.
   
